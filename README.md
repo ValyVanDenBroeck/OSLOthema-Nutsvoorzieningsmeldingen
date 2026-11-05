@@ -3,7 +3,7 @@
 ## Inleiding
 De datastandaarden betrokken bij het thema nutsvoorzieningsmeldingen.
 
-Meer informatie over het traject vind je op de pagina [OSLO Digitale Nuts](https://www.vlaanderen.be/digitaal-vlaanderen/agenda/evenementen/oslo-digitale-nuts?order_startdate=asc)).
+Meer informatie over het traject vind je op de pagina [OSLO Digitale Nuts](https://www.vlaanderen.be/digitaal-vlaanderen/agenda/evenementen/oslo-digitale-nuts?order_startdate=asc).
 
 ## Verslagen en presentaties
 
