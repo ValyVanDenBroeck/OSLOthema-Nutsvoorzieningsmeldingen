@@ -1,10 +1,9 @@
-# TITEL VAN TRAJECT
-
-<!--TODO: pas de titel aan van de README naar de naam van het traject zoals bijvoorbeeld 'Energiehuis'-->
+# OSLOthema-Nutsvoorzieningsmeldingen
 
 ## Inleiding
+De datastandaarden betrokken bij het thema nutsvoorzieningsmeldingen.
 
-<!--TODO: inleidende beschrijving van het traject-->
+Meer informatie over het traject vind je op de pagina [OSLO Digitale Nuts]([url](https://www.vlaanderen.be/digitaal-vlaanderen/agenda/evenementen/oslo-digitale-nuts?order_startdate=asc)).
 
 ## Verslagen en presentaties
 
