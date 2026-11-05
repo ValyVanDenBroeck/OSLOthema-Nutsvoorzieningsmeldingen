@@ -1,10 +1,8 @@
-# TITEL VAN TRAJECT
-
-<!--TODO: pas de titel aan van de README naar de naam van het traject zoals bijvoorbeeld 'Energiehuis'-->
+# OSLOthema-Nutsvoorzieningsmeldingen
 
 ## Inleiding
 
-<!--TODO: inleidende beschrijving van het traject-->
+De datastandaarden betrokken bij het thema nutsvoorzieningsmeldingen.
 
 ## Verslagen en presentaties
 
